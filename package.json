@@ -1,6 +1,6 @@
 {
   "name": "@faicon/react-from-flex",
-  "version": "0.0.2-beta.0",
+  "version": "0.0.2-beta.1",
   "description": "React components inspired by Adobe/Apache Flex MXML. https://www.npmjs.com/package/@faicon/react-from-flex",
   "main": "lib/library.js",
   "scripts": {
