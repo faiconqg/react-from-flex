@@ -14,14 +14,12 @@
     "url": "git+https://github.com/faicon/react-from-flex.git"
   },
   "keywords": [
-    "Adobe",
-    "Flex",
-    "Apache",
-    "Flex",
-    "MXML",
-    "React",
-    "Layout",
-    "UI"
+    "adobe-flex",
+    "apache-flex",
+    "mxml",
+    "react",
+    "layout",
+    "ui"
   ],
   "author": "faicon.com",
   "license": "MIT",
