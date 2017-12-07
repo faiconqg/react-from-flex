@@ -1,7 +1,7 @@
 {
   "name": "@faicon/react-from-flex",
   "version": "0.0.10-beta.0",
-  "description": "React components inspired by Adobe/Apache Flex MXML. https://www.npmjs.com/package/react-from-flex",
+  "description": "React components inspired by Adobe/Apache Flex MXML. https://www.npmjs.com/package/@faicon/react-from-flex",
   "main": "lib/library.js",
   "scripts": {
     "build": "webpack --env dev && webpack --env build && npm run test",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/faicon/react-from-flex.git"
+    "url": "git+https://github.com/faiconqg/react-from-flex.git"
   },
   "keywords": [
     "adobe-flex",
@@ -24,9 +24,9 @@
   "author": "faicon.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/faicon/react-from-flex/issues"
+    "url": "https://github.com/faiconqg/react-from-flex/issues"
   },
-  "homepage": "https://github.com/faicon/react-from-flex#readme",
+  "homepage": "https://github.com/faiconqg/react-from-flex#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
