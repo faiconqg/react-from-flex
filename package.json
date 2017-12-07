@@ -3,6 +3,9 @@
   "version": "0.0.2-beta.1",
   "description": "React components inspired by Adobe/Apache Flex MXML. https://www.npmjs.com/package/@faicon/react-from-flex",
   "main": "lib/library.js",
+  "files": [
+    "lib/"
+  ],
   "scripts": {
     "build": "webpack --env dev && webpack --env build && npm run test",
     "dev": "webpack --progress --colors --watch --env dev",
