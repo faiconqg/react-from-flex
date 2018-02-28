@@ -1,4 +1,4 @@
 {
-  "presets": ["env", "stage-1", "react"],
-  "plugins": ["add-module-exports"]
+  "presets": ["env", "stage-2", "react"],
+  "plugins": ["add-module-exports", "transform-object-rest-spread", "transform-object-assign"]
 }

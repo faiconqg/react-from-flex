@@ -1,8 +1,8 @@
 {
   "name": "@faicon/react-from-flex",
-  "version": "0.0.2-beta.2",
+  "version": "0.0.3",
   "description": "React components inspired by Adobe/Apache Flex MXML. https://www.npmjs.com/package/@faicon/react-from-flex",
-  "main": "lib/library.js",
+  "main": "lib/react-from-flex.js",
   "files": [
     "lib/"
   ],
@@ -31,14 +31,15 @@
   },
   "homepage": "https://github.com/faiconqg/react-from-flex#readme",
   "devDependencies": {
-    "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
     "babel-eslint": "^8.0.3",
     "babel-loader": "^7.1.2",
     "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-plugin-transform-object-assign": "^6.22.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1",
-    "babel-preset-stage-1": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
     "chai": "^4.1.2",
     "commitplease": "latest",
     "eslint": "^4.12.1",
